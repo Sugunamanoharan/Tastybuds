@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(237, 188, 214);
+    width: 100%;
+}
+.login-container { 
+    width: 350px; 
+    background: white;
+    padding: 20px; 
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+ }
+
+.login-container h2 { 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+.input-group { 
+    margin-bottom: 15px; 
+}
+.input-group-text { 
+    background: rgb(231, 200, 225); 
+    border: none; 
+}
+.form-control {
+     border-left: none; 
+    }
+.btn-login { 
+    width: 100%; 
+    background-color: rgb(231, 200, 225);
+ }
+.btn-login:hover { 
+    background-color: rgb(227, 153, 212); 
+}
